@@ -16,6 +16,7 @@ Computating and generating plot of the Fourier Series for the provided discrete 
 # Assignment 4
 
 Implementing Fourier transformation and Inverse Fourier transformation of provided discrete and continuous time signals. Further generating the magnitude spectrum, phase spectrum, real part and complex part of the computed signals.
+---
 
 Caution: Exercise discretion when utilizing the provided solutions. Please refrain from directly copying the provided programming files for your own solutions and instead use them as a reference only.
 
