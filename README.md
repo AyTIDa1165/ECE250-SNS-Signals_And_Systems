@@ -1,4 +1,4 @@
-# Signals and Systems (ECE250) - Assignments
+# ECE250: Signals and Systems (SnS) - Assignments
 
 The following repository provides solutions to the programming assignments of the course Signals & Systems (ECE250). 
 
@@ -21,5 +21,3 @@ Implementing Fourier transformation and Inverse Fourier transformation of provid
 ## NOTE
 
 Exercise discretion when utilizing the provided solutions. Please refrain from directly copying the provided programming files for your own solutions and instead use them as a reference only.
-
-PS. The provided solutions are complete and scored full marks.
