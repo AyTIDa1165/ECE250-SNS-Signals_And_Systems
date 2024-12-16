@@ -1,6 +1,6 @@
 # ECE250: Signals and Systems (SnS) - Assignments
 
-The following repository provides solutions to the programming assignments of the course Signals & Systems (ECE250). 
+The following repository provides solutions to the programming assignments of the course Signals & Systems (ECE250) for the academic year 2023-24. 
 
 ## Assignment 1
 
